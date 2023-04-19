@@ -1,1 +1,2 @@
 # Paiza
+S ranking question
